@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  open5gs-5gcore-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-07T21:19:51.358923956Z"
+    description: A Helm chart for open5gs 5G Core
+    digest: 44440f98e8d3fa0190b27ae28e4be6cf1f4a7fe92594cad569b37a7d237d4c96
+    name: open5gs-5gcore-helm
+    type: application
+    urls:
+    - https://github.com/ssidraf/open5gs-helm-osm.git/open5gs-5gcore-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-07T21:19:51.357841341Z"
